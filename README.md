@@ -3,6 +3,7 @@
 Generate images inside ZCode with `grok-imagine-image` (xAI) or `gpt-image-1` (OpenAI) through a zero-dependency Node script (Node 18+, no npm install). ZCode's model config is text-output only, so this skill shells out to the providers' images APIs and saves PNGs locally.
 
 ![example](example.png)
+
 ^ just an example! support real artists :3 
 
 ## Install
